@@ -1,8 +1,5 @@
-Hello Git
-It’s new line!
-<<<<<<< HEAD
+Hello Git Branch
+It’s new line
 Add new line
 Add 2new line
-1111
-=======
->>>>>>> parent of 2f56c4f... Test status
+11
